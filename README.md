@@ -36,5 +36,5 @@ A system monitoring tool for tracking CPU, memory, and system usage.
 
 ## Contact
 
-- LinkedIn: add your LinkedIn link here
-- Email: add your email here
+- LinkedIn: https://www.linkedin.com/in/purav-kanda-971357296/
+- Email: puravkanda@gmail.com
