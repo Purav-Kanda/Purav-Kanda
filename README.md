@@ -45,13 +45,6 @@ OOP • Distributed Systems • Unit Testing • Agile • API Design
 
 ---
 
-## 📈 GitHub Stats
-
-![Purav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purav-Kanda&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purav-Kanda&layout=compact&theme=github_dark)
-
----
-
 ## 🧩 What I Focus On
 
 - Shipping full-stack systems end-to-end — idea to deployment, not just demos
