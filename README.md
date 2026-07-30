@@ -1,88 +1,68 @@
 # 👋 Hi, I'm Purav
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Computer+Science+Student;Backend+Developer;Building+Practical+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Computer+Science+%26+Economics+Student;Full-Stack+%2F+AI+Systems+Developer;Building+Real%2C+Shipped+Projects)
 
-💻 Computer Science student at McMaster University  
-🔐 Interested in backend systems, security, and full-stack development  
-🚀 Focused on building practical, real-world projects  
+💻 3rd-year Computer Science & Economics (Honours Co-op) student at McMaster University
+🤖 Interested in AI agent systems, backend infrastructure, and full-stack development
+🛠 Open-source contributor on [Drasil](https://github.com/JacquesCarette/Drasil), a McMaster research project
+🚀 I build things that actually ship — not just prototypes
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🔐 Password Manager CLI  
-Secure command-line password manager using PBKDF2, hashing, and salting  
-📁 `projects/password-manager-cli`
+### 📐 MathScan — Handwritten Math to LaTeX
+Full-stack OCR pipeline (Next.js frontend on Vercel, FastAPI backend on Modal) that converts handwritten notes into editable LaTeX in real time, streaming results via Server-Sent Events. Confidence-gated fallback OCR system plus an LLM correction pass, benchmarked at **71.4% mean character accuracy** on real photographed handwritten notes. Full CI test suite on every push.
+📁 [`MathScan`](https://github.com/Purav-Kanda/MathScan) · **Live:** math-scan-lake.vercel.app
 
----
+### 🛡️ AgentSentinel — AI Agent Observability
+Real-time observability API detecting AI agent hallucinations, tool-call loops, and reasoning drift via a per-span composite anomaly scorer combining linguistic, latency, and retry-pattern signals. Three-tier automated remediation (WARN / PAUSE-with-human-gate / ABORT), backed by 31 unit tests. Submitted to the Splunk Agentic Ops Hackathon ($20K prize pool, 1,300+ participants).
+📁 `AgentSentinel` · 🎥 [Demo](https://youtu.be/zLXxlxDPzIg)
 
-### 🌐 Full Stack Portfolio Website  
-Admin dashboard with SQL backend for dynamic content management  
-📁 `projects/full-stack-project`
+### 🩺 DysphagiaSense — AI Swallow Risk Detection
+Full-stack AI pipeline built in 24 hours — React/TypeScript frontend, FastAPI backend, real-time audio classification using MFCC, spectral centroid, and zero-crossing rate features. **Placed 3rd of 20+ teams** (Health & Aging track) at MacHacks 2026.
+📁 `DysphagiaSense`
 
----
-
-### 📊 System Monitor  
-Logs CPU and memory usage into CSV files for performance analysis  
-📁 `projects/system-monitor`
-
----
-
-### 🤖 AI Chatbot  
-Rule-based chatbot using structured intent matching (no ML)  
-📁 `projects/ai-chatbot`
-
----
-
-### 🩺 DysphagiaSense  
-Health-focused project exploring data-driven analysis for dysphagia  
-📁 `projects/dysphagia-sense`
-
----
-
-### 🧠 Memory Puzzle  
-Interactive browser-based memory game  
-📁 `projects/memory-puzzle`
+### 🧩 Drasil — Open-Source Research Contributions
+Merged 10 pull requests into a multi-package Haskell codebase spanning printer backends, code generators (C#, Python, Java), and requirements-engineering domain logic — used across 10+ downstream case studies. McMaster research project supervised by Dr. Jacques Carette and Dr. Spencer Smith.
+📁 [`Drasil`](https://github.com/JacquesCarette/Drasil)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages  
-Python • JavaScript • PHP • SQL • HTML • CSS  
+**Languages**
+Python • TypeScript • JavaScript • Java • C • SQL • Go • Haskell • HTML/CSS
 
-### Tools & Concepts  
-Git • Linux • Backend Development • Full-Stack Development  
-Security (Hashing, Salting, PBKDF2) • Data Logging  
+**Frameworks & Libraries**
+FastAPI • React • Next.js • Node.js • REST APIs • NumPy • Pandas • Librosa
+
+**Cloud & DevOps**
+AWS • Docker • Modal (serverless) • CI/CD (GitHub Actions) • PostgreSQL • MySQL • Git • Linux
+
+**Concepts**
+OOP • Distributed Systems • Unit Testing • Agile • API Design
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Purav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purav-Kanda&show_icons=true&theme=github_dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purav-Kanda&layout=compact&theme=github_dark)
 
 ---
 
 ## 🧩 What I Focus On
 
-- Building secure systems (authentication, encryption)
-- Backend logic and system design  
-- Full-stack applications with real functionality  
-- Writing clean, structured, maintainable code  
+- Shipping full-stack systems end-to-end — idea to deployment, not just demos
+- Debugging real production issues (deployment failures, root-cause fixes) rather than working around them
+- AI/agent infrastructure: observability, evaluation, and reliability
+- Writing tested, maintainable code with real CI pipelines
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: (https://www.linkedin.com/in/purav-kanda-971357296/)
-- Email: puravkanda@gmail.com
-
----
-
-## ⚡ Quick Notes
-
-- Most projects are inside a single `projects` repository  
-- Each project has its own folder and README  
-- Built with focus on practical implementation, not just theory  
+- 📧 puravkanda@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/purav-kanda-971357296/)
+- 🌐 [Portfolio](https://puravkanda13.42web.io/)
