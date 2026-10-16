@@ -28,7 +28,7 @@ Full-stack AI pipeline built with a 4-person team — React/TypeScript frontend,
 📁 `DysphagiaSense`
 
 ### 🧩 Drasil — Open-Source Research Contributions
-Merged 10 pull requests into a multi-package Haskell codebase spanning printer backends, code generators (C#, Python, Java), and requirements-engineering domain logic — used across 10+ downstream case studies. McMaster research project supervised by Dr. Jacques Carette and Dr. Spencer Smith.
+Merged 18 pull requests into a multi-package Haskell codebase spanning printer backends, code generators (C#, Python, Java), and requirements-engineering domain logic — used across 10+ downstream case studies. McMaster research project supervised by Dr. Jacques Carette and Dr. Spencer Smith.
 📁 [`Drasil`](https://github.com/JacquesCarette/Drasil)
 
 ---
