@@ -24,7 +24,7 @@ Real-time observability API detecting AI agent hallucinations, tool-call loops, 
 📁 `AgentSentinel` · 🎥 [Demo](https://youtu.be/zLXxlxDPzIg)
 
 ### 🩺 DysphagiaSense — AI Swallow Risk Detection
-Full-stack AI pipeline built with a 4-person team — React/TypeScript frontend, FastAPI backend, and a rule-based acoustic risk scorer using MFCC, spectral centroid, and zero-crossing rate features. I owned the risk classification engine and acoustic feature research. **Placed 3rd of 20+ teams** (Health & Aging track) at MacHacks 2026.
+Full-stack AI pipeline built in a 12-hour hackathon by a 4-person team — React/TypeScript frontend, FastAPI backend, and a rule-based acoustic risk scorer using MFCC, spectral centroid, and zero-crossing rate features. I owned the risk classification engine and acoustic feature research. **Placed 3rd of 20+ teams** (Health & Aging track) at MacHacks 2026.
 📁 `DysphagiaSense`
 
 ### 🧩 Drasil — Open-Source Research Contributions
