@@ -11,8 +11,12 @@
 
 ## 🔥 Featured Projects
 
+### 🔒 ACEL — Agent Contract Enforcement Layer
+Open-source Python library (PyPI: `acel-core`, MIT) that blocks AI agent tool calls violating declared rules (ordering, spend caps, required steps) before they execute. Rules run as deterministic state machines, with signed tamper-evident audit logs and an MCP proxy. 357 automated tests and 100% precision/recall on a hand-labeled 67-trace benchmark.
+📁 [`Acel`](https://github.com/Purav-Kanda/Acel)
+
 ### 📐 MathScan — Handwritten Math to LaTeX
-Full-stack OCR pipeline (Next.js frontend on Vercel, FastAPI backend on Modal) that converts handwritten notes into editable LaTeX in real time, streaming results via Server-Sent Events. Confidence-gated fallback OCR system plus an LLM correction pass, benchmarked at **71.4% mean character accuracy** on real photographed handwritten notes. Full CI test suite on every push.
+Full-stack OCR pipeline (Next.js frontend on Vercel, FastAPI backend on Modal) that converts handwritten notes into editable LaTeX in real time, streaming results via Server-Sent Events. Dual-OCR pipeline (Pix2Text plus a PaddleOCR second opinion on every page, higher confidence wins) with an LLM correction pass, benchmarked at **71.4% mean character accuracy** on real photographed handwritten notes. Full CI test suite on every push.
 📁 [`MathScan`](https://github.com/Purav-Kanda/MathScan) · **Live:** math-scan-lake.vercel.app
 
 ### 🛡️ AgentSentinel — AI Agent Observability
@@ -20,7 +24,7 @@ Real-time observability API detecting AI agent hallucinations, tool-call loops, 
 📁 `AgentSentinel` · 🎥 [Demo](https://youtu.be/zLXxlxDPzIg)
 
 ### 🩺 DysphagiaSense — AI Swallow Risk Detection
-Full-stack AI pipeline built in 24 hours — React/TypeScript frontend, FastAPI backend, real-time audio classification using MFCC, spectral centroid, and zero-crossing rate features. **Placed 3rd of 20+ teams** (Health & Aging track) at MacHacks 2026.
+Full-stack AI pipeline built with a 4-person team — React/TypeScript frontend, FastAPI backend, and a rule-based acoustic risk scorer using MFCC, spectral centroid, and zero-crossing rate features. I owned the risk classification engine and acoustic feature research. **Placed 3rd of 20+ teams** (Health & Aging track) at MacHacks 2026.
 📁 `DysphagiaSense`
 
 ### 🧩 Drasil — Open-Source Research Contributions
